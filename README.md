@@ -1,7 +1,8 @@
 # Website-for-NAREV-Vacation-Houses
 This repo is for a project whose purpose is to make a website for NAREV Vacation Houses. :house:
 
-**This project doesn't have a deadline or anything.** It's just a fun task to so I will know if I have any chances in webdev. :sweat_smile:
+**This project doesn't have a deadline or anything.**
+It's just a fun task to so I will know if I have any chances in webdev. :sweat_smile:
 ---
 ## Planned tasks for now:
 - **Remember to use jQuery**
