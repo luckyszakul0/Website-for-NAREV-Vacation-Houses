@@ -1,0 +1,8 @@
+:root {
+    --main-color: #E1FEFF;
+}
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
