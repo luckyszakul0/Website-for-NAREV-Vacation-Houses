@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200;400;700&family=Phudu:wght@400;600&display=swap');
+:root {
+    --main-color-first: #c3fdff;
+    --main-color-second: #2361be;
+}
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body {
+    background: linear-gradient(var(--main-color-first), var(--main-color-second));
+    background-attachment: fixed;
+}
+header {
+    background: white;
+    padding: 20px;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+header>div {
+    font-size: 4rem;
+    line-height: 1em;
+    font-family: Phudu, sans-serif;
+}
+header>span {
+    font-size: 1.5em;
+}
+nav>ul {
+    list-style-type: none;
+    justify-content: space-between;
+}
+.nav-item {
+    display: inline;
+}
